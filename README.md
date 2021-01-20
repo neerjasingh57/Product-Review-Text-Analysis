@@ -1,3 +1,3 @@
-# Product-Review-Text-Analysis
+# Product-Review-Text-Analysis 
 
-Using a set of product reviews for Google Pixel Buds from retailers like Bestbuy and Target, I was able to complete text analysis, to come up with some descriptive conclusions about user opinions. The code includes a word cloud, plots of word frequency, k-means clustering, sentiment analysis. 
+To conduct this text analysis, I collected 50 online product reviews of Google Pixel Buds from Target, Bestbuy, Walmart, and Google’s online store. The time period of these reviews spanned from May to November of 2020. I first plotted the distribution of the ratings on a scale of 1-5. Then, to analyze the text, we counted word frequency for both the review title and reviews, clustered the reviews, and did a sentiment analysis using the reviews. 
